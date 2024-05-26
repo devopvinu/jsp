@@ -1,0 +1,8 @@
+CREATE TABLE QUESTIONS (
+    question VARCHAR2(50),
+    option1 VARCHAR2(50),
+    option2 VARCHAR2(50),
+    option3 VARCHAR2(50),
+    option4 VARCHAR2(50),
+    correctanswer VARCHAR2(50)
+);
